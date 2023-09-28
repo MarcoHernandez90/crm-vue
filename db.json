@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marco Antonio",
+      "apellido": "Hernández Nevárez",
+      "email": "marcohdez500@hotmail.com",
+      "telefono": "625-122-4791",
+      "empresa": "Pondercel",
+      "puesto": "Analista de Sistemas",
+      "estado": 1,
+      "id": 1
+    }
+  ]
+}
